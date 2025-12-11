@@ -1,0 +1,23 @@
+h1{
+    font-family:fantasy;
+    font-size:50px;
+    text-align: center;
+    color: #2A7B9B;
+}
+#title{
+    width:100%;
+    font-size:15px;
+}
+#content{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;     /* 把 padding & border 算進 width 內 */
+    font-size:15px;
+    resize: vertical;         /* 只允許垂直拉伸 */
+}
+#release{
+    background-color:dodgerblue;
+    width:100%;
+    font-size:20px;
+    color:white;
+}
