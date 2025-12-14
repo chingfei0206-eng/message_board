@@ -1,11 +1,11 @@
 h1{
     font-family:fantasy;
-    font-size:50px;
     text-align: center;
     color: #2A7B9B;
+    font-size:10vw;
 }
 #title{
-    width:100%;
+    width:80vw;
     font-size:15px;
 }
 #content{
@@ -17,7 +17,9 @@ h1{
 }
 #release{
     background-color:dodgerblue;
-    width:100%;
+    width:50vw;
     font-size:20px;
     color:white;
+    display: block;
+    margin: 0 auto;
 }
